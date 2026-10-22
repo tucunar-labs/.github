@@ -9,6 +9,8 @@ software for operations, data, and everyday life.
 |---|---|---|
 | [Toka](https://github.com/tucunar-labs/toka) | Shared household tasks. Android, local-first, Firebase sync. | Apache-2.0 |
 | [Finanzas](https://github.com/tucunar-labs/finanzas) | Personal and household finance. Android, Firebase sync. | Apache-2.0 |
+| [Vintage](https://github.com/tucunar-labs/vintage) | Point-in-time macroeconomic data for Chile. Open REST API + MCP server. | MIT |
+| [LibreGantt](https://github.com/tucunar-labs/libreGantt) | Local-first Gantt editor. No login, no backend. | MIT |
 
 ## Services
 
